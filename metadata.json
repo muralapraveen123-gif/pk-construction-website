@@ -1,0 +1,6 @@
+{
+  "name": "PK Constructions | Nidadavole",
+  "description": "PK Constructions - Real estate builders & construction company in Nidadavole, Andhra Pradesh. Design, Structure, Permission, Construction all in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
